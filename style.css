@@ -64,7 +64,9 @@ li{
   display: block;
   margin-right:10px;
 }
-
+.name{
+  margin-left:10px;
+  }
 ul{
   background: #2c3e50;
   width: 100%;
